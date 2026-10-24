@@ -20,7 +20,7 @@ export default {
       titulo: "Shape of You",
       artista: "Ed Sheeran",
       de: "De mí para ti",
-      nota: "Es la primera vez que te dedico una canción, y no la escogí al azar. Esta es mi forma de decirte que te amo, en canción. Escúchala pensando en que cada vez que suene, yo estoy pensando en ti."
+      nota: "Es la primera vez que te digo te amo en forma de canción, y no la escogí al azar. Escúchala pensando en que cada vez que suene, yo estoy pensando en ti."
     },
     suya: {
       id: "5RIcOnCoAAzjhXkpgOAkiY",
@@ -104,10 +104,10 @@ export default {
   momentos: [
     { titulo: "Películas de terror", anio: "2026", tecnica: "Luces apagadas, gritos a dúo y manos tapando la pantalla",
       medidas: "Duración: lo que dure el susto", motivo: "terror", foto: "",
-      nota: "Nos asustamos juntos, que es la mejor manera de asustarse. Lo que más miedo me daba no era la película, era que se acabara la llamada." },
+      nota: "Nunca me dio miedo alguna película, lo que si me asustaba era que se acabara la llamada." },
     { titulo: "Overcooked", anio: "2026", tecnica: "Técnica mixta: cebollas sin picar, platos en llamas, órdenes a gritos",
       medidas: "Edición única (por ahora)", motivo: "cocina", foto: "",
-      nota: "Quemamos la cocina, se nos cayó todo y aun así fuimos el mejor equipo. Me debes una revancha." },
+      nota: "Quemamos la cocina, se nos cayó todo y aun así fuimos el mejor equipo." },
     { titulo: "Llamadas", anio: "2026 · en curso", tecnica: "Voz sobre Discord",
       medidas: "Duración: indefinida", motivo: "llamadas", foto: "",
       nota: "Las horas se van más rápido cuando estás al otro lado. Nunca encuentro el momento de colgar, y está bien así." },
@@ -119,7 +119,7 @@ export default {
       nota: "Me contaste lo que te pesa y yo te conté lo mío. Ese día dejé de conocerte por encima. Gracias por confiarme las partes que no le muestras a cualquiera." },
     { titulo: "La pregunta", anio: "2026", tecnica: "Carta al estilo de Jane Austen, cámaras encendidas",
       medidas: "Respuesta: “no”… “sí”", motivo: "pregunta", foto: "",
-      nota: "Te leí mi carta, te hice la pregunta y me dijiste que no. Un segundo después dijiste que sí, y vi en tu cara una ilusión que no se me va a olvidar." }
+      nota: "Leíste mi carta, te hice la pregunta y me dijiste que no. Un segundo después dijiste que sí, y vi en tu cara una ilusión que no se me va a olvidar." }
   ],
 
   // Herbario: plantas de tu tierra
